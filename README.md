@@ -21,3 +21,5 @@ After installation solver can be used with following command;
 When script will run it will give output of the solution like below;
 
 <img width="289" alt="image" src="https://github.com/SagarKariya/wordlesolver/assets/60439654/1459d0ce-46b6-41d7-8b03-55e5a9d2d669">
+
+Ref: https://www.inspiredpython.com/article/solving-wordle-puzzles-with-basic-python
